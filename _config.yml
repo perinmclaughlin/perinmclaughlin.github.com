@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Perin.McLaughlin
 locale:           en_US
 url:              
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Perin McLaughlin
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
+  email: perin@bavarianintlprep.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
