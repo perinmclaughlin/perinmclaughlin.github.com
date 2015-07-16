@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Blog"
+modified:
+categories: 
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-07-09T13:39:53+02:00
+---
+
