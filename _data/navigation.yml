@@ -1,16 +1,12 @@
-# Site navigation links
-
-- title: Portfolio
-  url: /portfolio/
-
-- title: Portfolio Categories
-  url: /portfolio-categories/
-
-- title: Blog
-  url: /blog/
-
-- title: Tags
-  url: /tags/
-
-- title: About
-  url: /about/
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
